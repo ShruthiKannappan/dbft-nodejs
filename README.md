@@ -3,7 +3,7 @@
 ## Overview
 
 This project implements a **Delegated Byzantine Fault Tolerance (dBFT)**-inspired consensus mechanism using **Node.js**.
-The system consists of **7 nodes (n0–n6)** running on separate virtual machines, collaboratively reaching consensus even in the presence of faulty or malicious nodes.
+The system consists of **7 nodes (n0–n6)** running on separate virtual machines, collaboratively reaching consensus even in the presence of a faulty or malicious node.
 
 dBFT ensures **security**, **reliability**, and **energy efficiency** by delegating validation to a set of trusted consensus nodes.
 
